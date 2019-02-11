@@ -1,0 +1,21 @@
+{
+    "name": "bamazon",
+    "version": "1.0.0",
+    "description": "amazon app for hw",
+    "main": "bamazonGarcian.js",
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \\\"Error: no test specified\\\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/garciandcruz/bamazon.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/garciandcruz/bamazon/issues"
+    },
+    "homepage": "https://github.com/garciandcruz/bamazon#readme"
+};
